@@ -52,3 +52,28 @@
     *Workded as Accountant specialist*
     
 ---
+
+### Sofware programming skills : 
+- *Basic knowledge of Html,CSS and Javascritp* 
+
+---
+
+### Example of your own code:
+
+---
+
+### Working experience in Informaton Technology: 
+
+- *None*
+
+---
+
+### Educational background: 
+- *Tashkent Financial institute, Banking faculty, Master's degree, 2011-2013;*
+- *Tashkent Financial institute, Banking faculty, Banking degree, 2006-2010;*
+- *Financial accounting 1 certificate, 01.2018-04.2018;*
+
+### Language skills: 
+- English - advanced level;* 
+- *Russian -advanced level;* 
+
