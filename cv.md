@@ -73,7 +73,9 @@
 - *Tashkent Financial institute, Banking faculty, Banking degree, 2006-2010;*
 - *Financial accounting 1 certificate, 01.2018-04.2018;*
 
+---
+
 ### Language skills: 
-- English - advanced level;* 
+- *English - advanced level;* 
 - *Russian -advanced level;* 
 
