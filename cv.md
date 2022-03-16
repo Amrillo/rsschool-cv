@@ -12,9 +12,9 @@
 
 ---
 
-### Main current priority: 
+### About my goals: 
 
-+ *To become Frontend developer in the next 3 years* 
++ *Having gained huge expirience in various finance positions, I realized that it's real time to change smth in my career and to get what I am passsionate about. This is programming language that gives me a sense of fullfillment and satisfaction. Eventually I've made my mind to try out for IT sphere, willing to become skilled Full-stack developer in JAVASCRIPT in the upcoming years. Every day I am brushing up my knowledge to be the best* 
 
 ---
 
