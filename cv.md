@@ -32,13 +32,6 @@
 
 
 ---
-
-### Personal qualities: 
-
-+ *flexible, ambitious, detail-oriented, communicative, able to work under pressure* 
-
----
-
 ### Educational background: 
 
 - *Financial accounting 1 certificate, 01.2018-04.2018.*
@@ -46,3 +39,46 @@
 - *Tashkent Financial institute, Banking faculty, Banking degree, 2006-2010*
 
 ---
+
+### Personal qualities: 
+
++ *flexible, ambitious, detail-oriented, communicative, able to work under pressure* 
+
+---
+
+### Working background: 
+
+1. ***"New Silk Road Oil and Gas" company, Tashkent. Period: Currently***
+
+    *working as financial specialist*
+
+---
+
+### Example of my own code:
+
+    ``` 
+    function duplicateEncode(word){
+        word = word.toLowerCase();
+        return word.split("").map(el=> {   
+         if (word.split("").filter(item=> item == el).length >1) {  
+               return ")"
+           }  else { 
+                return "("
+           }
+         }).join("")
+    }
+    ```
+---
+
+### Online courses and Internship: 
+
++  *_"Itilogia"_ course in front-end development, 2023-2024*
+
+---
+
+### Languages: 
+
+- *English - advanced*
+- *Russian - advanced*
+- *Uzbek - native* 
+
