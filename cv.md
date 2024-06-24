@@ -30,28 +30,6 @@
 + *Git*
 + *Gulp, Grunt, Webpack, Npm, Rest API*
 
-
----
-### Educational background: 
-
-- *Financial accounting 1 certificate, 01.2018-04.2018.*
-- *Tashkent Financial institute, Banking faculty, Master's degree, 2011-2013*
-- *Tashkent Financial institute, Banking faculty, Banking degree, 2006-2010*
-
----
-
-### Personal qualities: 
-
-+ *flexible, ambitious, detail-oriented, communicative, able to work under pressure* 
-
----
-
-### Working background: 
-
-1. ***"New Silk Road Oil and Gas" company, Tashkent. Period: Currently***
-
-    *working as financial specialist*
-
 ---
 
 ### Example of my own code:
@@ -70,9 +48,31 @@
     ```
 ---
 
+### Working background: 
+
+1. ***"New Silk Road Oil and Gas" company, Tashkent. Period: Currently***
+
+    *working as financial specialist*
+
+---
+
+### Educational background: 
+
+- *Financial accounting 1 certificate, 01.2018-04.2018.*
+- *Tashkent Financial institute, Banking faculty, Master's degree, 2011-2013*
+- *Tashkent Financial institute, Banking faculty, Banking degree, 2006-2010*
+
+---
+
 ### Online courses and Internship: 
 
 +  *_"Itilogia"_ course in front-end development, 2023-2024*
+
+---
+
+### Personal qualities:     
+
++ *flexible, ambitious, detail-oriented, communicative, able to work under pressure* 
 
 ---
 
