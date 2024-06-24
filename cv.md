@@ -12,7 +12,6 @@
 
 + **Email** : <*amrishka88@gmail.com*> ; 
 
-
 ---
 
 ### About me: 
@@ -64,7 +63,7 @@
 
 ---
 
-### Online courses and Internship: 
+### Online courses: 
 
 +  *_"Itilogia"_ course in front-end development, 2023-2024*
 
