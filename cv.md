@@ -8,7 +8,7 @@
 
 + **Age** : *36* 
 
-+ **Contact information** : *+99893 1368889* 
++ **Contact information** : *+99893 136-88-89* 
 
 + **Email** : *amrishka88@gmail.com*  
 
@@ -50,7 +50,7 @@
 
 1.  ***"New Silk Road Oil and Gas" company, Tashkent***                         *Period: Currently*
 
-    + *working as a financial specialist*
+    *working as a financial specialist*
 
 ---
 
@@ -64,7 +64,7 @@
 
 ### Online courses: 
 
-+  * ***Itilogia*** course in front-end development, 2023-2024*
++  ***Itilogia*** course in front-end development, 2023-2024
 
 ---
 
