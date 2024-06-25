@@ -33,7 +33,6 @@
 
 ### Example of my own code:
 
-    ```
     function duplicateEncode(word){
         word = word.toLowerCase();
         return word.split("").map(el=> {   
@@ -45,15 +44,13 @@
          }).join("")
     }
 
-    ```
-    
 ---
 
 ### Working background: 
 
-1. ***"New Silk Road Oil and Gas" company, Tashkent. Period: Currently***
+1.  ***"New Silk Road Oil and Gas" company, Tashkent***                         *Period: Currently*
 
-    *working as financial specialist*
+    + *working as a financial specialist*
 
 ---
 
@@ -67,7 +64,7 @@
 
 ### Online courses: 
 
-+  *_"Itilogia"_ course in front-end development, 2023-2024*
++  * ***Itilogia*** course in front-end development, 2023-2024*
 
 ---
 
