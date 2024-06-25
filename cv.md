@@ -4,13 +4,13 @@
 
 + **Akhmedov Amrillo**
 
-+ **Date of birth** : *12.06.1988* ;
++ **Date of birth** : *12.06.1988* 
 
-+ **Age** : *36* ;  
++ **Age** : *36* 
 
-+ **Contact information** : *+99893 1368889* ;  
++ **Contact information** : *+99893 1368889* 
 
-+ **Email** : <*amrishka88@gmail.com*> ; 
++ **Email** : *amrishka88@gmail.com*  
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### Example of my own code:
 
-    ``` 
+    ```
     function duplicateEncode(word){
         word = word.toLowerCase();
         return word.split("").map(el=> {   
@@ -44,7 +44,9 @@
            }
          }).join("")
     }
+
     ```
+    
 ---
 
 ### Working background: 
