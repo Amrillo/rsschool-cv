@@ -41,9 +41,7 @@ function duplicateEncode(word){
         }
     }).join("")
 }
-
----
-
+```
 ## Working Background 
 
 **“New Silk Road Oil and Gas” Company, Tashkent**  
