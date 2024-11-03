@@ -30,18 +30,19 @@
 
 ### **Example of My Code**
 
-```javascript
-function duplicateEncode(word){
-    word = word.toLowerCase();
-    return word.split("").map(el=> {   
-        if (word.split("").filter(item=> item == el).length > 1) {  
-            return ")"
-        } else { 
-            return "("
-        }
-    }).join("")
-}
+```javascript 
+  function duplicateEncode(word){
+      word = word.toLowerCase();
+      return word.split("").map(el=> {   
+          if (word.split("").filter(item=> item == el).length > 1) {  
+              return ")"
+          } else { 
+              return "("
+          }
+      }).join("")
+   } 
 ```
+
 ## Working Background 
 
 **“New Silk Road Oil and Gas” Company, Tashkent**  
