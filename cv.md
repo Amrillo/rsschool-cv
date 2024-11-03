@@ -61,8 +61,8 @@
 ### Online courses: 
 
 +  ***JS/FE Pre-School 2024Q2*** - areas in Html, CSS, Javascript , 2024(certificate available) 
-+  ***Skillbox*** education platform , React framework , 2024
-+  ***Itilogia*** course in front-end development, 2023-2024
++  ***"Skillbox"*** education platform , React framework , 2024
++  ***"Itilogia"*** course in front-end development, 2023-2024 (certificate available)
 +  ***JS/FE PRE-SCHOOL 2022*** - Javascript (certificate available)
 +  ***Financial accounting 1*** -certificate, 01.2018-04.2018.
 
