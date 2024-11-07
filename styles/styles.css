@@ -370,6 +370,7 @@
    
 }
 
+
 .skills-bar .bar .angular {  
   width: 92%;
   animation-name: angular;
@@ -380,7 +381,11 @@
   animation-name: jquery;
 }
 
-
+.skills-bar .bar .react {  
+  width: 70%;
+  animation-name: react;
+  
+}
 @keyframes html {  
     0% {width: 0%;}  
     100% { width : 100%}   
@@ -422,7 +427,10 @@
   0% {width: 0%;}  
   100% { width : 92%}   
 }
-
+@keyframes react {  
+  0% {width: 0%;}  
+  100% { width : 70%}   
+}
 @keyframes fontsMoving {  
 
     0% { transform: scale(0.5)}  
@@ -523,31 +531,7 @@
   }
 }
 
-/* @layer demo.support {
-  * {
-    box-sizing: border-box;
-    margin: 0;
-  }
-
-  html {
-    block-size: 100%;
-    color-scheme: dark light;
-  }
-
-  body {
-    min-block-size: 100%;
-    font-family: system-ui, sans-serif;
-
-    display: grid;
-    place-content: center;
-  }
-  
-  h1 {
-    font-size: 30vmin;
-  }
-}
-  */
-
+ 
 
 /* ------------ Projects --------------------------*/  
 
